@@ -1,0 +1,85 @@
+[
+    {
+        "empName" : "fahad",
+         "empEmail" : "fahad@gmail.com",
+         "empNumber" : "925757",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "55000"
+    },
+
+    
+    {
+        "empName" : "Mahad",
+         "empEmail" : "Mahad@gmail.com",
+         "empNumber" : "925757765",
+         "empAdress" : "Hyderabad , pakistan",
+         "empSalary" :  "65000"
+    },
+
+    
+    {
+        "empName" : "Rohan",
+         "empEmail" : "Rohan@gmail.com",
+         "empNumber" : "925757575",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "85000"
+    },
+
+
+    
+    {
+        "empName" : "Majid",
+         "empEmail" : "Majid@gmail.com",
+         "empNumber" : "9257573556",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "70000"
+    },
+
+
+    
+    {
+        "empName" : "Ali",
+         "empEmail" : "Ali@gmail.com",
+         "empNumber" : "9257574576",
+         "empAdress" : "Lahore , pakistan",
+         "empSalary" :  "45000"
+    },
+
+    
+    {
+        "empName" : "Mahad",
+         "empEmail" : "Mahad@gmail.com",
+         "empNumber" : "925757",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "55800"
+    },
+
+    
+    {
+        "empName" : "Faraz",
+         "empEmail" : "Faraz@gmail.com",
+         "empNumber" : "93802454",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "65000"
+    },
+
+    
+    {
+        "empName" : "Mohib",
+         "empEmail" : "Mohib@gmail.com",
+         "empNumber" : "92319676",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "55000"
+    },
+
+
+    
+    {
+        "empName" : "Ahmed",
+         "empEmail" : "Ahmed@gmail.com",
+         "empNumber" : "93802454",
+         "empAdress" : "Karachi , pakistan",
+         "empSalary" :  "55000"
+    }
+    
+]
